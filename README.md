@@ -67,4 +67,26 @@ See `LICENSE` for details.
 ## 💬 Citation
 
 If referencing this work in academic or technical material, cite via:
+@software{lucidlock_inquiry_2026,
+author = {Sean Honan and Lucid Labs},
+title = {LucidLock: Core Inquiry Continuity Check},
+version = {1.0},
+date = {2026-01-12},
+doi = {10.5281/zenodo.18220739},
+url = {https://doi.org/10.5281/zenodo.18220739}
+
+}
+
+
+---
+
+## 🔒 Integrity by Design
+
+LucidLock agents are structurally independent from content bias, style mimicry, or topical relevance scoring.  
+This agent performs **pure structural recursion tracing** — **a firewall against aesthetic persuasion and inquiry distortion**.
+
+---
+
+_This repository is part of the [LucidLock Integrity Framework](https://github.com/Seaninzg)._  
+Built to audit the shape of thought — not just the surface of language.
 
