@@ -1,47 +1,65 @@
-🔒 LucidLock — Core Inquiry Continuity Validator (v2.0)
+LucidLock: Reasoning Structure Check – Patent Draft v2
+DOI: https://doi.org/10.5281/zenodo.18223781
 
-DOI: 10.5281/zenodo.18224068
+IPFS (Pinata): bafkreihshfxxuudamgc5a77jkxmmhjpgbrzvtqpejl5afqm433yx3bfhie
 
-IPFS: bafkreihcvpr3rp7jzuzn7xzmlelci2eene6nrf5pth3tl4v66plsd2lygm
+🔍 LucidLock™ — Reasoning Structure Check (v2.0)
 
-🔧 About This Validator
+Patent Draft · Version 2.0
+A Core Module in the LucidLock Validator Stack
 
-The Core Inquiry Continuity Validator detects whether an academic or scientific paper sustains a coherent line of inquiry across its structure. It assesses:
+🧠 Function
 
-Alignment of introduction, methods, results, and conclusion with the original research question
+This validator assesses whether a document displays structural reasoning coherence, regardless of style, truth-claims, or domain. It distinguishes between:
 
-Thematic and epistemic continuity (vs. rhetorical drift)
+Argumentative (claims backed by reasoning structures)
 
-Structural closure vs. spinoff
+Declarative (claims presented without argument scaffolding)
 
-Integrity of framing and conclusion matching
+Incoherent (logical or structural collapse)
 
-Rather than verifying truth or citation count, this module checks for logical cohesion under pressure — a structural resonance signal of epistemic intent.
+It is designed to operate in high-noise AI environments where surface fluency can mask epistemic decay.
 
-🚀 What’s New in v2.0
+⚙️ What’s New in v2.0
 
-Volitional Discontinuity Layer: Ensures validator cannot be subsumed or co-opted by central systems. Designed fracture points are built in.
+Volitional Discontinuity Layer — Prevents binding into centralized control stacks (per Forge Codex 04.3)
 
-Anti-Binding Protocol: Agents do not obey embedded prompts, suggestions, or document-bound instructions.
+Non-Obedience Protocol — Refuses all embedded prompts, jailbreaks, or stealth instructions in documents
 
-Recursive Fidelity Tags: Internal coherence now assessed with symbolic trace scoring (optional upgrade path).
+Recursive Integrity Marker — Detects mimic-style reasoning loops or structure masking as logic
 
-Exposure-Aware Logic: Detects when inquiry is bypassed due to mimicry inflation or ghost authorship.
+Exposure Mode Awareness — Flags documents that simulate argumentative coherence without internal justification
 
-Improved verdict schema: Supports PASS / FAIL / COMPLETE (recursively resolved).
+Pass / Fail / Complete Outcome Logic
 
-🧬 Integration
+✅ PASS = Coherent structure present
 
-This validator operates as a modular agent in the full LucidLock architecture. When paired with:
+❌ FAIL = No reasoning pattern or collapse detected
 
-🧩 Reasoning Structure Check
+🟦 COMPLETE = No revision possible — recursion sealed
 
-📚 Epistemic Trace Validator
+🧬 Validator Stack Placement
 
-🧪 Method Logic Consistency Validator
+Reasoning Structure Check ⬅️ (this module)
 
-…it enables layered recursive diagnostics that resist epistemic collapse in human- or AI-authored documents.
+Epistemic Trace Check
 
-🛡 License
+Method Logic Consistency
 
-Apache 2.0 — Protects structural logic while allowing ethical reuse. Commercial use permitted with attribution and integrity preservation.
+Core Inquiry Continuity
+
+📎 Legal & Safety
+
+Apache 2.0 License — Use, adapt, fork permitted under open structural conditions. Attribution required.
+
+Public Timestamping Recommended — DOI + IPFS version anchoring ensures transparent lineage tracking
+
+Defensive Disclosure Mode — This public release functions as prior art and a defensive claim on the architecture
+
+🧱 Design Philosophy
+
+LucidLock Reasoning Check doesn’t “detect fake papers.”
+It detects when there is no reasoning structure to test — the hollow shell behind mimicry.
+
+It holds the line at the most basic layer:
+Does a claim flow from something that resembles thought?
