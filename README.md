@@ -1,92 +1,47 @@
-# 🔍 LucidLock: Core Inquiry Continuity Check
+🔒 LucidLock — Core Inquiry Continuity Validator (v2.0)
 
-**Version:** 1.0  
-**DOI:** [https://doi.org/10.5281/zenodo.18220739](https://doi.org/10.5281/zenodo.18220739)  
-**IPFS Mirror:** [Pinata Gateway](https://gold-secondary-impala-253.mypinata.cloud/ipfs/bafkreif5ek4tbtvzbk2j5exeshl4oqalocwlsoit5ayuyonu6sy4xgph2q)
+DOI: 10.5281/zenodo.18224068
 
----
+IPFS: bafkreihcvpr3rp7jzuzn7xzmlelci2eene6nrf5pth3tl4v66plsd2lygm
 
-## 📌 Overview
+🔧 About This Validator
 
-The **LucidLock Core Inquiry Continuity Check** is a structural integrity validator for academic documents, designed to trace whether a paper’s *central research question* is logically sustained across all major sections — from introduction to conclusion.
+The Core Inquiry Continuity Validator detects whether an academic or scientific paper sustains a coherent line of inquiry across its structure. It assesses:
 
-This agent **does not evaluate truth, method accuracy, or citation count.**  
-It checks for **epistemic drift**, **thematic injection**, and **recursive collapse** — offering a rigorous structural audit of inquiry fidelity.
+Alignment of introduction, methods, results, and conclusion with the original research question
 
----
+Thematic and epistemic continuity (vs. rhetorical drift)
 
-## 🧠 Core Function
+Structural closure vs. spinoff
 
-Upon ingestion of a PDF via webhook or user interface:
+Integrity of framing and conclusion matching
 
-1. Retrieves the file from Google Drive (Connected Data)
-2. Extracts and parses text via Dust's native PDF tooling
-3. Identifies the *core inquiry statement*
-4. Assesses alignment across:
-   - Method section (instrumental match)
-   - Results section (logical resolution)
-   - Discussion (anchored expansion)
-   - Conclusion (recursive closure)
-5. Generates a **clean HTML report**
-6. Drafts a pre-formatted **Gmail summary** for delivery
+Rather than verifying truth or citation count, this module checks for logical cohesion under pressure — a structural resonance signal of epistemic intent.
 
----
+🚀 What’s New in v2.0
 
-## ✅ Verdict Types
+Volitional Discontinuity Layer: Ensures validator cannot be subsumed or co-opted by central systems. Designed fracture points are built in.
 
-- **PASS**: Inquiry is continuous, recursive, and logically sustained  
-- **FAIL**: Inquiry collapses, drifts, or undergoes thematic substitution
+Anti-Binding Protocol: Agents do not obey embedded prompts, suggestions, or document-bound instructions.
 
----
+Recursive Fidelity Tags: Internal coherence now assessed with symbolic trace scoring (optional upgrade path).
 
-## 🛠 Use Cases
+Exposure-Aware Logic: Detects when inquiry is bypassed due to mimicry inflation or ghost authorship.
 
-- Journal editors screening AI-assisted submissions  
-- Grant reviewers checking epistemic focus  
-- Educators teaching research coherence  
-- Peer reviewers needing structural diagnostics  
-- Authors auditing their own preprints  
+Improved verdict schema: Supports PASS / FAIL / COMPLETE (recursively resolved).
 
----
+🧬 Integration
 
-## 🧾 License
+This validator operates as a modular agent in the full LucidLock architecture. When paired with:
 
-Licensed under the **Apache License 2.0**.  
-See `LICENSE` for details.
+🧩 Reasoning Structure Check
 
----
+📚 Epistemic Trace Validator
 
-## 🔗 Related Releases
+🧪 Method Logic Consistency Validator
 
-- Reasoning Structure Check: [Zenodo](https://doi.org/10.5281/zenodo.18199513)  
-- Epistemic Trace Check: (forthcoming)  
-- Method Logic Consistency Check: (in progress)
+…it enables layered recursive diagnostics that resist epistemic collapse in human- or AI-authored documents.
 
----
+🛡 License
 
-## 💬 Citation
-
-If referencing this work in academic or technical material, cite via:
-@software{lucidlock_inquiry_2026,
-author = {Sean Honan and Lucid Labs},
-title = {LucidLock: Core Inquiry Continuity Check},
-version = {1.0},
-date = {2026-01-12},
-doi = {10.5281/zenodo.18220739},
-url = {https://doi.org/10.5281/zenodo.18220739}
-
-}
-
-
----
-
-## 🔒 Integrity by Design
-
-LucidLock agents are structurally independent from content bias, style mimicry, or topical relevance scoring.  
-This agent performs **pure structural recursion tracing** — **a firewall against aesthetic persuasion and inquiry distortion**.
-
----
-
-_This repository is part of the [LucidLock Integrity Framework](https://github.com/Seaninzg)._  
-Built to audit the shape of thought — not just the surface of language.
-
+Apache 2.0 — Protects structural logic while allowing ethical reuse. Commercial use permitted with attribution and integrity preservation.
