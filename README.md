@@ -1,6 +1,6 @@
 LucidLock: Reasoning Structure Check – Patent Draft v2
-DOI: https://doi.org/10.5281/zenodo.18223781
 
+DOI: https://doi.org/10.5281/zenodo.18223781
 IPFS (Pinata): bafkreihshfxxuudamgc5a77jkxmmhjpgbrzvtqpejl5afqm433yx3bfhie
 
 🔍 LucidLock™ — Reasoning Structure Check (v2.0)
