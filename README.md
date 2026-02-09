@@ -63,3 +63,14 @@ It detects when there is no reasoning structure to test — the hollow shell beh
 
 It holds the line at the most basic layer:
 Does a claim flow from something that resembles thought?
+
+⚖️ Disclosure Notice
+
+This repository constitutes a public technical disclosure of an invention for the purpose of establishing prior art under applicable patent and intellectual property frameworks. The disclosure is intended to prevent subsequent patenting of substantially similar subject matter by other entities.
+
+This publication is timestamped and made permanently available via public archival platforms, including Zenodo, GitHub, and IPFS/Pinata, to preserve authorship attribution and document the structural origin of the disclosed invention.
+
+📄 License
+
+This repository is published for disclosure and reference purposes only.
+No license to implement, reproduce, or commercialize the disclosed invention is granted by this publication.
